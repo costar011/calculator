@@ -23,3 +23,7 @@ a {
     display: grid;
     place-items: center;
 }
+
+.calculator {
+    position: relative;
+}
