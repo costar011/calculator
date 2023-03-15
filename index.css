@@ -110,3 +110,22 @@ button#equal {
 .calculator {
     background-color: #fff;
 }
+
+.calculator #display {
+    color: #0a1e23;
+}
+
+.calculator button#clear {
+    background-color: #ffd5d8;
+    color: #fc4552;
+}
+
+.calculator button.btn-number {
+    background-color: #c3eaff;
+    color: #000;
+}
+
+.calculator button.btn-operator {
+    background-color: #ffd0fd;
+    color: #f967f3;
+}
