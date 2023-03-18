@@ -5,3 +5,16 @@
     outline: 0;
     transition: all 0.5s ease;
 }
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    background-image: linear-gradient(to bottom right);
+}
